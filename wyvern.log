@@ -1,0 +1,45 @@
+2022-12-03 11:32:26,918 - INFO - Generating Keypair.
+2022-12-03 11:32:26,919 - INFO - Providing Public Key to Server.
+2022-12-03 11:32:26,919 - INFO - Received Server Public Key.
+2022-12-03 11:32:26,919 - INFO - Computated crypto box
+2022-12-03 11:33:12,276 - INFO - Generating Keypair.
+2022-12-03 11:33:12,276 - INFO - Providing Public Key to Server.
+2022-12-03 11:33:12,277 - INFO - Received Server Public Key.
+2022-12-03 11:33:12,277 - INFO - Computated crypto box
+2022-12-03 11:33:58,904 - INFO - Generating Keypair.
+2022-12-03 11:33:58,904 - INFO - Providing Public Key to Server.
+2022-12-03 11:33:58,904 - INFO - Received Server Public Key.
+2022-12-03 11:33:58,904 - INFO - Computated crypto box
+2022-12-03 11:37:42,436 - INFO - Awaiting chatserver to dispatch.
+2022-12-03 11:37:42,436 - INFO - Got Payload: b'b:3'
+2022-12-03 11:37:56,512 - INFO - [INPUT] 
+2022-12-03 11:38:02,500 - INFO - [INPUT] 
+2022-12-03 11:38:18,911 - INFO - [INPUT] foo
+2022-12-03 11:40:06,910 - INFO - [INPUT] 
+2022-12-03 11:40:07,246 - INFO - [INPUT] 
+2022-12-03 11:40:07,663 - INFO - [INPUT] 
+2022-12-03 11:40:07,906 - INFO - [INPUT] 
+2022-12-03 11:40:08,258 - INFO - [INPUT] 
+2022-12-03 11:40:08,910 - INFO - [INPUT] 
+2022-12-03 11:40:09,280 - INFO - [INPUT] ls
+2022-12-03 11:40:10,345 - INFO - [INPUT] ls
+2022-12-03 11:40:11,825 - INFO - [INPUT] ls
+2022-12-03 11:40:56,743 - INFO - [INPUT] 
+2022-12-03 12:18:30,689 - INFO - [INPUT] ls
+2022-12-03 12:18:33,291 - INFO - Closing TCP/IP socket
+2022-12-03 12:18:33,291 - INFO - TCP/IP socket closed.
+2022-12-03 12:18:50,576 - INFO - [INPUT] 
+2022-12-03 12:18:50,805 - INFO - [INPUT] 
+2022-12-03 12:19:35,004 - INFO - Got Payload: b'b:3'
+2022-12-03 12:19:47,232 - INFO - [INPUT] 
+2022-12-03 12:19:49,596 - INFO - [INPUT] help
+2022-12-03 12:19:50,299 - INFO - [INPUT] exit
+2022-12-03 12:19:50,867 - INFO - Got Payload: b'b:3'
+2022-12-03 12:19:51,857 - INFO - Closing TCP/IP socket
+2022-12-03 12:19:51,857 - INFO - TCP/IP socket closed.
+2022-12-03 12:19:56,766 - INFO - Got Payload: b'b:3'
+2022-12-03 12:20:03,486 - INFO - Closing TCP/IP socket
+2022-12-03 12:20:03,486 - INFO - TCP/IP socket closed.
+2022-12-03 12:20:06,087 - INFO - Got Payload: b'b:3'
+2022-12-03 12:20:09,329 - INFO - Closing TCP/IP socket
+2022-12-03 12:20:09,330 - INFO - TCP/IP socket closed.
